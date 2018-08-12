@@ -13,7 +13,6 @@ else {
 if (height !== 70) {
   var height = 70;
 }
-
 else {
   console.log("Try again, fart face")
 }
